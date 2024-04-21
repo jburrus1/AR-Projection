@@ -72,3 +72,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+.vsconfig
+.idea/.idea.NewParallax.dir/.idea/indexLayout.xml
+.idea/.idea.NewParallax.dir/.idea/encodings.xml
